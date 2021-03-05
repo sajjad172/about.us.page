@@ -199,7 +199,7 @@ Wsp yall a little about myself is I play football I'm a rb(running back) thanks 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
 .fa {
-  padding: 7px;
+  padding: 15px;
   font-size: 20px;
   width: 25px;
   text-align: center;
