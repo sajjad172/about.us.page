@@ -56,7 +56,6 @@ Hobbies: Art, Running, Sports, Gaming, and Reading Instagram: @annabananamal (fo
 
 }
 </style>
-</head>
 <body>
 
 
@@ -82,7 +81,6 @@ Hobbies: Art, Running, Sports, Gaming, and Reading Instagram: @annabananamal (fo
 
  href="https://www.instagram.com/annabananamal/" class="fa fa-instagram"> </a>
 </style>
-</head>
 <body>
 <a 
 
@@ -128,7 +126,6 @@ What’s up my name is Farah. I am 15 and was made in 2005. Some hobbies I got i
 
 }
 </style>
-</head>
 <body>
 
 <a href="mailto:alsammarraief8095@student.sanjuan.edu" class="fa fa-google"></a>
@@ -152,7 +149,6 @@ What’s up my name is Farah. I am 15 and was made in 2005. Some hobbies I got i
 
  href="https://www.instagram.com/farahsamaraiee/" class="fa fa-instagram"> </a>
 </style>
-</head>
 <body>
 <a 
 
@@ -196,7 +192,6 @@ Wsp yall a little about myself is I play football I'm a rb(running back) thanks 
 
 }
 </style>
-</head>
 <body>
 
 
@@ -220,7 +215,6 @@ Wsp yall a little about myself is I play football I'm a rb(running back) thanks 
 
  href="https://www.instagram.com/sj_.2005/" class="fa fa-instagram"> </a>
 </style>
-</head>
 <body>
 <a 
 
