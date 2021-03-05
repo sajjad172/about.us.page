@@ -91,9 +91,7 @@ href="https://www.instagram.com/annabananamal/" class="fa fa-instagram"></a>
 
         
 
-      </div>
-    </div>
-  </div>
+     
 
  <p> <strong><em>insest image here of you (if yall want)</em></strong></p>
         <h2>Farah Al Sammarraie</h2>
@@ -161,9 +159,6 @@ What’s up my name is Farah. I am 15 and was made in 2005. Some hobbies I got i
 href="https://www.instagram.com/farahsamaraiee/" class="fa fa-instagram"></a>
        
          
-      </div>
-    </div>
-  </div>
 
  <p> <strong><em>insest image here of you (if yall want)</em></strong></p>
         <h2>Sajjad Jaafar</h2>
@@ -236,10 +231,7 @@ href="https://www.instagram.com/sj_.2005/" class="fa fa-instagram"></a>
 
 
 
-      </div>
-    </div>
-  </div>
-</div>
+  
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 body {
