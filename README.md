@@ -101,9 +101,9 @@ What’s up my name is Farah. I am 15 and was made in 2005. Some hobbies I got i
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
 .fa {
-  padding: 10px;
+  padding: 15px;
   font-size: 10px;
-  width: 10px;
+  width: 00px;
   text-align: center;
   text-decoration: none;
   margin: 0px;
@@ -255,7 +255,7 @@ body {
 </style>
 <body>
 
-<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+<button onclick="topFunction()" id="myBtn" title="Go to top"> Top</button>
 
 
 
@@ -280,4 +280,5 @@ function topFunction() {
 }
 </script>
 </body>
+
 
