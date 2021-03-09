@@ -13,7 +13,7 @@ body {
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-<body>
+
 
 
 body {
@@ -38,7 +38,7 @@ body {
   display: block;
   color: red;
   text-align: center;
-  padding: 10px 51px;
+  padding: 10px 51.6px;
   text-decoration:  none;
   background-color:black
 }
@@ -520,5 +520,4 @@ function topFunction() {
 </script>
 
 </body>
-
 
