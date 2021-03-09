@@ -383,8 +383,6 @@ Hope you guys enjoyed our website !
 </p>
         
        
-<head>
-<style>
      
          
 
@@ -451,7 +449,8 @@ href="https://www.instagram.com/sj_.2005/" class="fa fa-instagram"></a><br>
         <p class="big">
 Wsp yall a little about myself is I play football I'm a rb(running back) thanks to all my linemen for blocking for me you can call me SJ unless you could pronounce my name correctly sure lol. Got out of my mom's tummy in 05. My goal is to help you teenagers if you have any questions or concern make sure to hit up our line. Other than that hopefully yall make the best out of this website and make the best out of yourselves!
 </p>
-
+<head>
+<style>
 
 
 
