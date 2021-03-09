@@ -13,8 +13,9 @@ body {
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
+<body>
 
- 
+
 body {
   font-family: Arial, Helvetica, sans-serif;
   margin: 0;
@@ -37,7 +38,7 @@ body {
   display: block;
   color: red;
   text-align: center;
-  padding: 10px 42.81px;
+  padding: 10px 51px;
   text-decoration:  none;
   background-color:black
 }
@@ -92,6 +93,7 @@ body {
   <a href="https://sajjad172.github.io/contact-us-page/">Contact Us</a>
   <a href="https://sajjad172.github.io/about.us.page/">About Us</a>
   <a href="https://sajjad172.github.io/artworx.page/" class="right" class="center">Artworx Page</a>
+  </div>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 img {
@@ -301,7 +303,7 @@ href="https://www.instagram.com/farahsamaraiee/" class="fa fa-instagram"></a><br
   <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/1DC3E516-1CBD-4357-80BA-BBA4FE0596FF.JPG" alt="Picture of farah" style="width:100%">
   </div>
   <div class="column">
-    <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/EF57890C-B81C-4D63-8E6C-52603D7B86D1.JPG" alt="Forest" style="width:100%" height="auto">
+    <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/EF57890C-B81C-4D63-8E6C-52603D7B86D1.JPG" alt="Forest" style="width:60%" height="auto">
   </div>
   
 </div>
@@ -453,6 +455,8 @@ href="https://www.instagram.com/sj_.2005/" class="fa fa-instagram"></a><br>
 Wsp yall a little about myself is I play football I'm a rb(running back) thanks to all my linemen for blocking for me you can call me SJ unless you could pronounce my name correctly sure lol. Got out of my mom's tummy in 05. My goal is to help you teenagers if you have any questions or concern make sure to hit up our line. Other than that hopefully yall make the best out of this website and make the best out of yourselves!
 </p>
 <head>
+<p><strong><em>If you want to go home</em> <a href="https://sajjad172.github.io/homepage.networx/">Click here</a></p><strong>
+
 <style>
 
 
