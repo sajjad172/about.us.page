@@ -102,7 +102,9 @@ img {
 </style>
 <body>
 <div class="about-section">
+<br>
   <h1>About Us Page</h1>
+  <br>
   <div style="text-align:center"><h3> Who are we? </h3>
   <p><em>We are a team of 3 wanting to fulfuill teenagers goals and inform them about the real world and help them not only acdemically but also give you infromation about  stuff outside school such as how to get started into the driving world, how to deal with mental health issues, learn how taxes work, etc.</em></p>
   
