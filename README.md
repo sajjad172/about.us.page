@@ -370,7 +370,7 @@ What’s up my name is Farah. I am 15 and was made in 2005. Some hobbies I got i
 <a 
 
 href="https://www.instagram.com/Kenaraaa_/" class="fa fa-instagram"></a>
-        <br><p><em><strong>insert image here if u want</p></em></strong>
+        <br><p><em><strong>insert image here if u want</strong></em></p>
                 <p class="big">
 Age - 15
 Insta - @Kenaraaa_ Follow me :)
