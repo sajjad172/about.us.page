@@ -370,7 +370,7 @@ What’s up my name is Farah. I am 15 and was made in 2005. Some hobbies I got i
 <a 
 
 href="https://www.instagram.com/Kenaraaa_/" class="fa fa-instagram"></a>
-        <br><p><em><strong>insert image here if u want</strong></p></em>
+        <br><p><em><strong>insert image here if u want</strong></em></p>
                 <p class="big">
 Age - 15
 Insta - @Kenaraaa_ Follow me :)
@@ -446,7 +446,8 @@ Hope you guys enjoyed our website !
 
 href="https://www.instagram.com/sj_.2005/" class="fa fa-instagram"></a><br>
         <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/IMG_0734.JPG" width="200">
-        <p class="big">
+     <br><p><em><strong>add other image here</strong></em></p>
+<p class="big">
 Wsp yall a little about myself is I play football I'm a rb(running back) thanks to all my linemen for blocking for me you can call me SJ unless you could pronounce my name correctly sure lol. Got out of my mom's tummy in 05. My goal is to help you teenagers if you have any questions or concern make sure to hit up our line. Other than that hopefully yall make the best out of this website and make the best out of yourselves!
 </p>
 <head>
