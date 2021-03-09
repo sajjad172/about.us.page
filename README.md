@@ -389,7 +389,7 @@ Hope you guys enjoyed our website !
          
 
 
-        <h2>Sajjad Jaafar</h2>
+<h2>Sajjad Jaafar</h2>
         <p class="title"><em>Co-Founder</em></p>
         <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
