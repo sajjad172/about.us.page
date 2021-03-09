@@ -85,7 +85,7 @@ body {
 </style>
 </head>
 <body>
-
+</div>
 
 <div class="navbar">
   <a href="https://sajjad172.github.io/homepage.networx/">Home</a>
@@ -100,7 +100,6 @@ img {
   margin-right: auto;
 }
 </style>
-</head>
 <body>
 <div class="about-section">
   <h1>About Us Page</h1>
@@ -371,7 +370,7 @@ What’s up my name is Farah. I am 15 and was made in 2005. Some hobbies I got i
 <a 
 
 href="https://www.instagram.com/Kenaraaa_/" class="fa fa-instagram"></a>
-        <br><p><em><strong>insert image here if u want<p></em></strong>
+        <br><p><em><strong>insert image here if u want</p></em></strong>
                 <p class="big">
 Age - 15
 Insta - @Kenaraaa_ Follow me :)
