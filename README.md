@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 <title>Networx</title>
@@ -9,25 +8,112 @@ body {
 </style>
 </head>
 <body>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
 
+ 
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+
+
+ 
+
+
+
+
+.navbar {
+  overflow: hidden;
+  background-color:pink ;
+}
+
+
+.navbar a {
+  float: left;
+  display: block;
+  color: red;
+  text-align: center;
+  padding: 10px 42.81px;
+  text-decoration:  none;
+  background-color:black
+}
+
+
+.navbar a.right {
+  float: left;
+}
+
+
+.navbar a:hover {
+  background-color: yellow;
+  color: none;
+
+}
+
+
+.row {  
+  display: -ms-flexbox; 
+  display: flex;
+  -ms-flex-wrap: wrap; 
+  flex-wrap: wrap;
+}
+
+.side {
+  -ms-flex: 30%; 
+  flex: 30%;
+  background-color: none;
+  padding: 20px;
+}
+
+
+
+.main {   
+  -ms-flex: 70%; 
+  flex: 70%;
+  background-color: pink;
+  padding: 20px;
+
+
+
+
+
+
+</style>
+</head>
+<body>
+
+
+<div class="navbar">
+  <a href="https://sajjad172.github.io/homepage.networx/">Home</a>
+  <a href="https://sajjad172.github.io/contact-us-page/">Contact Us</a>
+  <a href="https://sajjad172.github.io/about.us.page/">About Us</a>
+  <a href="https://sajjad172.github.io/artworx.page/" class="right" class="center">Artworx Page</a>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+</head>
+<body>
 <div class="about-section">
   <h1>About Us Page</h1>
-  <p><em>We are a team of 3 wanting to fulfuill teenagers goals and inform them about the real world and help them not only acdemically but also give you infromation about  stuff outside school such as</em></p>
+  <div style="text-align:center"><h3> Who are we? </h3>
+  <p><em>We are a team of 3 wanting to fulfuill teenagers goals and inform them about the real world and help them not only acdemically but also give you infromation about  stuff outside school such as how to get started into the driving world, how to deal with mental health issues, learn how taxes work, etc.</em></p>
   
 </div>
 
 <h2 style="text-align:center">Our Team</h2>
-<p> <strong><em>insest image here of you (if yall want)</em></strong></p>
+
       <div class="container">
-        <h2>Anna Hall</h2>
-        <p class="title"><em>CEO & Founder</em></p>
-     <p class="big">
-Age: 15
-Hobbies: Art, Running, Sports, Gaming, and Reading Instagram: @annabananamal (follow us)I like to enjoy all the luxuries in life, such as online games and awesome music.  Favorite fruits: mango and grapes Favorite Song: Angel 2 Me by McKay, Jeff Bernat, Flower by Johnny Stimson Favorite Color: pink and green Favorite Game: rotmg, kartrider Hope you enjoy our website!
-</p>
-
-
-<meta name="viewport" content="width=device-width, initial-scale=1">
+        <h2>Anna Hall</h2><p class="title"><em>CEO & Founder</em></p>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
 .fa {
@@ -85,18 +171,54 @@ Hobbies: Art, Running, Sports, Gaming, and Reading Instagram: @annabananamal (fo
 <a 
 
 href="https://www.instagram.com/annabananamal/" class="fa fa-instagram"></a>
+  <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/6692E1E9-C984-4BE1-B483-365E5535EB72.JPG" width="250" alt="picture of anna">
        
+     <p class="big">
+Age: 15
+Hobbies: Art, Running, Sports, Gaming, and Reading Instagram: @annabananamal (follow us)I like to enjoy all the luxuries in life, such as online games and awesome music.  Favorite fruits: mango and grapes Favorite Song: Angel 2 Me by McKay, Jeff Bernat, Flower by Johnny Stimson Favorite Color: pink and green Favorite Game: rotmg, kartrider Hope you enjoy our website!
+</p>
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+.fa {
+  padding: 10px;
+  font-size: 10px;
+  width: 10px;
+  text-align: center;
+  text-decoration: none;
+  margin: 0px;
+  border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+
+
+
+
+}
+
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}
+
+
+}
+</style>
+<body>
+
+
+       <br>
 
         
 
      
 
- <p> <strong><em>insest image here of you (if yall want)</em></strong></p>
         <h2>Farah Al Sammarraie</h2>
         <p class="title"><em>Co-Founder</em> </p>
-        <p class="big">
-What’s up my name is Farah. I am 15 and was made in 2005. Some hobbies I got is I love listening to music and eating. I love rap and drill because it hits different.  I am a uae baddie that came all the way to cali😈. My insta is @farahsamaraiee hit my line doe. I hope you dig our website 😃 
-</p>
         <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
@@ -152,18 +274,125 @@ What’s up my name is Farah. I am 15 and was made in 2005. Some hobbies I got i
 <body>
 <a 
 
-href="https://www.instagram.com/farahsamaraiee/" class="fa fa-instagram"></a>
+href="https://www.instagram.com/farahsamaraiee/" class="fa fa-instagram"></a><br>
+        <html>
+<head>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 50%;
+  padding: 5px;
+}
+
+</style>
+</head>
+<body>
+
+
+
+
+<div class="row">
+  <div class="column">
+  <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/1DC3E516-1CBD-4357-80BA-BBA4FE0596FF.JPG" alt="Picture of farah" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/EF57890C-B81C-4D63-8E6C-52603D7B86D1.JPG" alt="Forest" style="width:100%" height="auto">
+  </div>
+  
+</div>
+
+</body>
+</html>
+  
+        <p class="big">
+What’s up my name is Farah. I am 15 and was made in 2005. Some hobbies I got is I love listening to music and eating. I love rap and drill because it hits different.  I am a uae baddie that came all the way to cali😈. My insta is @farahsamaraiee hit my line doe. I hope you dig our website 😃 
+</p>
+        
+        
+  <h2>Kenara Phompong-McGee</h2>
+        <p class="title"><em>Co-Founder</em> </p>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+.fa {
+  padding: 15px;
+  font-size: 10px;
+  width: 00px;
+  text-align: center;
+  text-decoration: none;
+  margin: 0px;
+  border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+
+
+
+
+}
+
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}
+
+
+}
+</style>
+<body>
+
+<a href="mailto:phompongmcgeek3751@student.sanjuan.edu" class="fa fa-google"></a>
        
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+.fa {
+  padding: 15px;
+  font-size: 40px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 0px ;
+  border-radius: 50%;
+}
+.fa:hover {
+    opacity: 0.7;
+    background-color: none;
+    color: #4c68d7;
+}
+
+ href="https://www.instagram.com/Kenaraaa_/" class="fa fa-instagram"> </a>
+</style>
+<body>
+<a 
+
+href="https://www.instagram.com/Kenaraaa_/" class="fa fa-instagram"></a>
+        <br><p><em><strong>insert image here if u want<p></em></strong>
+                <p class="big">
+Age - 15
+Insta - @Kenaraaa_ Follow me :)
+Hobbies - Art, Singing, Cooking, Dancing
+I Love different types of music, R&B, cultural, kpop, California music etc.
+Favorite Music Artists - Jay Park, DPR LIVE, Bris, Mike Sherm, Saweetie, Ann Marie
+Favorite Colors - Red, Green, Blue
+Hope you guys enjoyed our website !
+ 
+</p>
+        
+       
+<head>
+<style>
+     
          
 
- <p> <strong><em>insest image here of you (if yall want)</em></strong></p>
+
         <h2>Sajjad Jaafar</h2>
         <p class="title"><em>Co-Founder</em></p>
-        <p class="big">
-Wsp yall a little about myself is I play football I'm a rb(running back) thanks to all my linemen for blocking for me you can call me SJ unless you could pronounce my name correctly sure lol. Got out of my mom's tummy in 05. My goal is to help you teenagers if you have any questions or concern make sure to hit up our line. Other than that hopefully yall make the best out of this website and make the best out of yourselves!
-</p>
-
-<meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
 .fa {
@@ -199,8 +428,8 @@ Wsp yall a little about myself is I play football I'm a rb(running back) thanks 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
 .fa {
-  padding: 5px;
-  font-size: 10px;
+  padding: 7px;
+  font-size: 20px;
   width: 25px;
   text-align: center;
   text-decoration: none;
@@ -218,7 +447,12 @@ Wsp yall a little about myself is I play football I'm a rb(running back) thanks 
 <body>
 <a 
 
-href="https://www.instagram.com/sj_.2005/" class="fa fa-instagram"></a>
+href="https://www.instagram.com/sj_.2005/" class="fa fa-instagram"></a><br>
+        <img src="" width="200">
+        <p class="big">
+Wsp yall a little about myself is I play football I'm a rb(running back) thanks to all my linemen for blocking for me you can call me SJ unless you could pronounce my name correctly sure lol. Got out of my mom's tummy in 05. My goal is to help you teenagers if you have any questions or concern make sure to hit up our line. Other than that hopefully yall make the best out of this website and make the best out of yourselves!
+</p>
+
 
 
 
@@ -279,6 +513,7 @@ function topFunction() {
   document.documentElement.scrollTop = 0;
 }
 </script>
+
 </body>
 
 
