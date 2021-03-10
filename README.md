@@ -29,7 +29,7 @@ body {
 
 .navbar {
   overflow: hidden;
-  background-color:pink ;
+  background-color:black ;
 }
 
 
@@ -298,15 +298,37 @@ href="https://www.instagram.com/farahsamaraiee/" class="fa fa-instagram"></a><br
 
 
 
+<style>
+* {
+  box-sizing: border-box;
+
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+
+</style>
+</head>
+<body>
+
+
 <div class="row">
   <div class="column">
-  <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/1DC3E516-1CBD-4357-80BA-BBA4FE0596FF.JPG" alt="Picture of farah" style="width:100%">
+    <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/EF57890C-B81C-4D63-8E6C-52603D7B86D1.JPG" alt="Snow" style="width:100%">
   </div>
   <div class="column">
-    <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/EF57890C-B81C-4D63-8E6C-52603D7B86D1.JPG" alt="Forest" style="width:60%" height="auto">
+    <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/1DC3E516-1CBD-4357-80BA-BBA4FE0596FF.JPG" alt="Forest" style="width:100%">
   </div>
-  
+  <div class="column">
+    <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/IMG_4628.jpg" alt="Mountains" style="width:100%">
+  </div>
 </div>
+  
+
 
 </body>
 </html>
