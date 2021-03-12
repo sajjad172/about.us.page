@@ -80,8 +80,10 @@ body {
 
 
 
-
-
+}
+p {
+  font-size: 0.79em; 
+}
 
 </style>
 </head>
@@ -92,7 +94,8 @@ body {
   <a href="https://sajjad172.github.io/homepage.networx/">Home</a>
   <a href="https://sajjad172.github.io/contact-us-page/">Contact Us</a>
   <a href="https://sajjad172.github.io/about.us.page/">About Us</a>
-  <a href="https://sajjad172.github.io/artworx.page/" class="right" class="center">Artworx Page</a>
+  <a href="https://sajjad172.github.io/artworx.page/">Artworx Page</a>
+   <a href="https://sajjad172.github.io/sumbit.art/" class="right" class="center">Submit your Art!</a>
   </div>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -108,7 +111,7 @@ img {
   <h1>About Us Page</h1>
   <br>
   <div style="text-align:center"><h3> Who are we? </h3>
-  <p><em>We are a team of 3 wanting to fulfill teenagers goals and inform them about the real world and help them not only academically but also give you infromation about  stuff outside school such as how to get started into the driving world, how to deal with mental health issues, learn how taxes work, tutoring etc.</em></p>
+  <p><em>We are a team of 3 wanting to fulfill teenagers goals and inform them about the real world and help them not only academically but also give you infromation about  stuff outside school such as how to get started into the driving world, how to deal with mental health issues, learn how taxes work, tutoring, etc.</em></p>
   
 </div>
 
@@ -477,7 +480,7 @@ href="https://www.instagram.com/sj_.2005/" class="fa fa-instagram"></a><br>
 Wsp yall a little about myself is I play football I'm a rb(running back) thanks to all my linemen for blocking for me you can call me SJ unless you could pronounce my name correctly sure lol. Got out of my mom's tummy in 05. My goal is to help you teenagers if you have any questions or concern make sure to hit up our line. Other than that hopefully yall make the best out of this website and make the best out of yourselves!
 </p>
 <head>
-<p><strong><em>If you want to go home</em> <a href="https://sajjad172.github.io/homepage.networx/">Click here</a></p><strong>
+<p><strong><em>If you want to go home</em> <a href="https://sajjad172.github.io/homepage.networx/">Click here</a></p></strong>
 
 <style>
 
