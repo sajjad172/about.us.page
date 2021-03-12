@@ -455,7 +455,7 @@ Hope you guys enjoyed our website !
 .fa {
   padding: 7px;
   font-size: 35px;
-  width: 35px;
+  width: 42px;
   text-align: center;
   text-decoration: none;
   margin: 0px;
