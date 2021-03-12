@@ -178,7 +178,7 @@ img {
 
 href="https://www.instagram.com/annabananamal/" class="fa fa-instagram"></a>
   <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/6692E1E9-C984-4BE1-B483-365E5535EB72.JPG" width="250" alt="picture of anna">
-       
+       <br>
      <p class="big">
 Age: 15
 Hobbies: Art, Running, Sports, Gaming, and Reading Instagram: @annabananamal (follow us)I like to enjoy all the luxuries in life, such as online games and awesome music.  Favorite fruits: mango and grapes Favorite Song: Angel 2 Me by McKay, Jeff Bernat, Flower by Johnny Stimson Favorite Color: pink and green Favorite Game: rotmg, kartrider Hope you enjoy our website!
@@ -329,7 +329,7 @@ href="https://www.instagram.com/farahsamaraiee/" class="fa fa-instagram"></a><br
     <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/IMG_4628.jpg" alt="Mountains" style="width:100%">
   </div>
 </div>
-  
+  <br>
 
 
 </body>
@@ -455,7 +455,7 @@ Hope you guys enjoyed our website !
 .fa {
   padding: 7px;
   font-size: 35px;
-  width: 15px;
+  width: 35px;
   text-align: center;
   text-decoration: none;
   margin: 0px;
@@ -474,6 +474,7 @@ Hope you guys enjoyed our website !
 
 href="https://www.instagram.com/sj_.2005/" class="fa fa-instagram"></a><br>
         <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/IMG_0734.JPG" width="200">
+        <br>
 <p class="big">
 Wsp yall a little about myself is I play football I'm a rb(running back) thanks to all my linemen for blocking for me you can call me SJ unless you could pronounce my name correctly sure lol. Got out of my mom's tummy in 05. My goal is to help you teenagers if you have any questions or concern make sure to hit up our line. Other than that hopefully yall make the best out of this website and make the best out of yourselves!
 </p>
