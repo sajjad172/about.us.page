@@ -315,24 +315,52 @@ href="https://www.instagram.com/farahsamaraiee/" class="fa fa-instagram"></a><br
 
 
 </style>
+
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+</head>
 <body>
+
 
 
 <div class="row">
   <div class="column">
-    <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/EF57890C-B81C-4D63-8E6C-52603D7B86D1.JPG" alt="Snow" style="width:100%">
+    <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/IMG_4628.jpg" alt="pic of ugly as farah" style="width:100%">
   </div>
   <div class="column">
-    <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/1DC3E516-1CBD-4357-80BA-BBA4FE0596FF.JPG" alt="Forest" style="width:100%">
+    <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/farah.jpg" alt="pic of donkey lookin  farah" style="width:100%">
   </div>
   <div class="column">
-    <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/IMG_4628.jpg" alt="Mountains" style="width:100%">
+    <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/IMG_4661.jpg" alt="pic of sheep shaped body farah" style="width:100%">
   </div>
 </div>
+
+
+
+
+
+
+
   <br>
 
 
-</body>
+
 
   
         <p class="big">
@@ -609,6 +637,5 @@ function topFunction() {
 </script>
 
 </body>
-
 
 
