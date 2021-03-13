@@ -340,13 +340,13 @@ href="https://www.instagram.com/farahsamaraiee/" class="fa fa-instagram"></a><br
 
 <div class="row">
   <div class="column">
-    <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/IMG_4628.jpg" alt="pic of ugly as farah" style="width:100%">
+    <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/IMG_4628.jpg" alt="pic of farah" style="width:100%">
   </div>
   <div class="column">
-    <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/farah.jpg" alt="pic of donkey lookin  farah" style="width:100%">
+    <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/farah.jpg" alt="pic of  farah" style="width:100%">
   </div>
   <div class="column">
-    <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/IMG_4661.jpg" alt="pic of sheep shaped body farah" style="width:100%">
+    <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/IMG_4661.jpg" alt="pic of farah" style="width:100%">
   </div>
 </div>
 
