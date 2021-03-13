@@ -412,7 +412,6 @@ href="https://www.instagram.com/Kenaraaa_/" class="fa fa-instagram"></a>
 
 
 </style>
-</head>
 <body>
 
 
@@ -521,11 +520,11 @@ href="https://www.instagram.com/sj_.2005/" class="fa fa-instagram"></a><br>
 
 
 </style>
-</head>
+
 <body>
 
 
-<p> yes i don't know how to crop and no i coudn't choose another pic since i dont have one lol</p>
+<p> yes i don't know how to crop and no i coudn't choose another pic since i dont have any lol</p>
 <div class="row">
   <div class="column">
     <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/IMG_3341.jpg" alt="picture of sj" style="width:100%">
