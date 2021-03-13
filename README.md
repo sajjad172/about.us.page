@@ -334,7 +334,6 @@ href="https://www.instagram.com/farahsamaraiee/" class="fa fa-instagram"></a><br
   display: table;
 }
 </style>
-</head>
 <body>
 
 
