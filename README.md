@@ -398,7 +398,39 @@ What’s up my name is Farah. I am 15 and was made in 2005. Some hobbies I got i
 <a 
 
 href="https://www.instagram.com/Kenaraaa_/" class="fa fa-instagram"></a>
-        <br><p><em><strong>insert image here if u want</strong></em></p>
+        <style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+
+
+</style>
+</head>
+<body>
+
+
+
+<div class="row">
+  <div class="column">
+    <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/IMG_2959.jpeg" alt="picture of Kenara" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/IMG_2956.jpeg" alt="picture of Kenara" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/IMG_2952.jpeg" alt="picture of Kenara" style="width:100%">
+  </div>
+</div>
+
+
+
                 <p class="big">
 Age - 15
 Insta - @Kenaraaa_ Follow me :)
@@ -473,13 +505,47 @@ Hope you guys enjoyed our website !
 <a 
 
 href="https://www.instagram.com/sj_.2005/" class="fa fa-instagram"></a><br>
-        <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/IMG_0734.JPG" width="200">
+  
+
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+
+
+</style>
+</head>
+<body>
+
+
+<p> yes i don't know how to crop and no i coudn't choose another pic since i dont have one lol</p>
+<div class="row">
+  <div class="column">
+    <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/IMG_3341.jpg" alt="picture of sj" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/IMG_0734.JPG" alt="picture of sj" style="width:100%">
+  </div>
+  <div class="column">
+</div>
+
         <br>
 <p class="big">
 Wsp yall a little about myself is I play football I'm a rb(running back) thanks to all my linemen for blocking for me you can call me SJ unless you could pronounce my name correctly sure lol. Got out of my mom's tummy in 05. My goal is to help you teenagers if you have any questions or concern make sure to hit up our line. Other than that hopefully yall make the best out of this website and make the best out of yourselves!
 </p>
 <head>
+
 <p><strong><em>If you want to go home</em> <a href="https://sajjad172.github.io/homepage.networx/">Click here</a></strong></p>
+
+
+
 
 <style>
 
@@ -544,4 +610,6 @@ function topFunction() {
 </script>
 
 </body>
+
+
 
