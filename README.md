@@ -334,6 +334,7 @@ href="https://www.instagram.com/farahsamaraiee/" class="fa fa-instagram"></a><br
   display: table;
 }
 </style>
+<p> make sure to hmu lol i like gettin passed around @savage.farah123 and my knees on fleek 🤪🤪🤪🤪</p>
 <body>
 
 
@@ -343,10 +344,10 @@ href="https://www.instagram.com/farahsamaraiee/" class="fa fa-instagram"></a><br
     <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/IMG_4628.jpg" alt="pic of farah" style="width:100%">
   </div>
   <div class="column">
-    <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/farah.jpg" alt="pic of  farah" style="width:100%">
+    <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/IMG_4678.PNG" alt="pic of  farah" style="width:100%">
   </div>
   <div class="column">
-    <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/IMG_4661.jpg" alt="pic of farah" style="width:100%">
+    <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/IMG_4679.PNG" alt="pic of farah" style="width:100%">
   </div>
 </div>
 
@@ -636,5 +637,9 @@ function topFunction() {
 </script>
 
 </body>
+
+
+
+
 
 
