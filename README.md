@@ -351,7 +351,6 @@ href="https://www.instagram.com/farahsamaraiee/" class="fa fa-instagram"></a><br
   </div>
 </div>
 
-https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/IMG_4661.jpg
 
 
 
